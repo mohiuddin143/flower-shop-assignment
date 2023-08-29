@@ -150,3 +150,23 @@ body {
     width: 45%;
     height: 28px;
 }
+
+/* footer section start */
+footer {
+    background: rgba(229, 84, 115, 0.10);
+    width: 1922px;
+    height: 449px;
+}
+
+.flowershop {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-info {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+}
